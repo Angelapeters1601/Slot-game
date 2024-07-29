@@ -31,8 +31,6 @@ body {
   justify-content: flex-start;
   margin-top: -895px;
   color: #cc0e3d;
-  /* color: #f7e7ce; */
-  /* color: #c0c0c0; */
 }
 
 .title {
@@ -96,9 +94,6 @@ body {
 }
 
 .result img {
-  margin-top: -900px;
-}
-
-/* media queries */
-@media (min-width: 750px) and (max-width: 1024px) {
+  margin-top: -3000px;
+  width: 100%;
 }
